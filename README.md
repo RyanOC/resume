@@ -9,8 +9,7 @@ You can view the online version of my resume here:
 ## 📥 Download My Resume
 If you prefer, you can download my resume in different formats:
 
-- **[Resume (PDF)](https://github.com/ryanoc/resume/raw/main/resume.pdf)**
-- **[Resume (DOCX)](https://github.com/ryanoc/resume/raw/main/resume.docx)**
+- **[Resume (DOCX)](https://github.com/ryanoc/resume/raw/main/ryan-connolly_resume.docx)**
 - **[Resume (JSON)](https://github.com/ryanoc/resume/raw/main/resume.json)**
 
 ---
