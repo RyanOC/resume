@@ -19,9 +19,9 @@
   },
   "work": [
     {
-      "company": "Dell Technologies",
+      "name": "Dell Technologies",
       "position": "Senior Principal Software Engineer",
-      "website": "https://www.dell.com",
+      "url": "https://www.dell.com",
       "startDate": "2021-08",
       "endDate": "2025-02",
       "summary": "Senior leadership role initially focusing on team management and strategic direction, then transitioning to hands-on technical development in identity management and global supply chain systems.",
@@ -46,9 +46,9 @@
       ]
     },
     {
-      "company": "Tech Valley Talent",
+      "name": "Tech Valley Talent",
       "position": "Senior Software Engineer",
-      "website": "https://techvtal.com",
+      "url": "https://techvtal.com",
       "startDate": "2020-09",
       "endDate": "2021-08",
       "summary": "Led the development of critical software applications for the New York Workers' Compensation Board, focusing on modernizing their systems through the use of cutting-edge technologies and practices.",
@@ -61,9 +61,9 @@
       ]
     },
     {
-      "company": "Nextech Systems",
+      "name": "Nextech Systems",
       "position": "Senior Software Engineer",
-      "website": "https://www.nextech.com",
+      "url": "https://www.nextech.com",
       "startDate": "2020-05",
       "endDate": "2020-09",
       "summary": "Supported and enhanced complex healthcare software solutions, utilizing a broad range of technologies and development practices.",
@@ -76,9 +76,9 @@
       ]
     },
     {
-      "company": "RDK Truck Sales",
+      "name": "RDK Truck Sales",
       "position": "Senior Software Engineer",
-      "website": "https://www.rdk.com",
+      "url": "https://www.rdk.com",
       "startDate": "2018-07",
       "endDate": "2020-05",
       "summary": "Architected and developed a comprehensive CRM solution, enhancing business operations through advanced integration and development practices.",
@@ -91,9 +91,9 @@
       ]
     },
     {
-      "company": "Ashley Furniture",
+      "name": "Ashley Furniture",
       "position": "Senior Software Engineer",
-      "website": "https://www.ashleyfurniture.com",
+      "url": "https://www.ashleyfurniture.com",
       "startDate": "2017-01",
       "endDate": "2018-07",
       "summary": "Led the development of key security and user management systems within a major internal financial application, significantly enhancing operational security and efficiency.",
@@ -105,9 +105,9 @@
       ]
     },
     {
-      "company": "Mercury New Media",
+      "name": "Mercury New Media",
       "position": "Senior Software Engineer",
-      "website": "https://www.mercurynewmedia.com",
+      "url": "https://www.mercurynewmedia.com",
       "startDate": "2016-09",
       "endDate": "2016-12",
       "summary": "Contributed to the development of web solutions, specializing in custom widget creation and integration for Telerik Sitefinity MVC sites.",
@@ -117,9 +117,9 @@
       ]
     },
     {
-      "company": "352",
+      "name": "three five two",
       "position": "Senior Software Engineer",
-      "website": "https://www.352inc.com",
+      "url": "https://www.threefivetwo.com",
       "startDate": "2016-04",
       "endDate": "2016-08",
       "summary": "Played a key role in the development of innovative web applications, utilizing a modern technology stack to create scalable and efficient solutions.",
@@ -129,9 +129,9 @@
       ]
     },
     {
-      "company": "AAPL",
+      "name": "American Association for Physician Leadership (AAPL)",
       "position": "Senior Software Engineer",
-      "website": "https://www.physicianleaders.org",
+      "url": "https://www.physicianleaders.org",
       "startDate": "2014-02",
       "endDate": "2016-04",
       "summary": "Led initiatives to overhaul corporate web infrastructure, integrating advanced technologies to streamline operations and improve accessibility.",
@@ -141,8 +141,9 @@
       ]
     },
     {
-      "company": "SOE Software",
+      "name": "SOE Software",
       "position": "Senior Software Engineer",
+      "url": "https://soesoftware.com",
       "startDate": "2009-09",
       "endDate": "2014-02",
       "summary": "Enhanced and maintained software solutions for election management, focusing on secure, scalable web applications.",
@@ -151,7 +152,23 @@
       ]
     },
     {
-      "company": "Geographic Solutions",
+      "name": "RDK Truck Sales",
+      "position": "Senior Software Engineer",
+      "url": "https://www.rdk.com",
+      "startDate": "2006-06",
+      "endDate": "2009-09",
+      "summary": "Architected and developed a comprehensive CRM solution, enhancing business operations through advanced integration and development practices.",
+      "highlights": [
+        "Developed a custom CRM and reporting web application that is used exclusively by RDK’s call center which handles heavy call volume dealing with commercial vehicle sales for international clients using ASP.NET, C#, JavaScript and SQL Server.",
+        "Developed a dashboard to report call center data statics for management analysis using windows services and Dundas Charts.",
+        "Developed a desktop application for CRM integration using ActiveX to assist sales team with incoming calls.",
+        "Developed a windows service to email configurable PDF financial and productivity reports to management and the CEO.",
+        "Responsible for all business process analysis, prototyping from requirements, conceptual designs, development and testing.",
+        "Managed relationships with 20 business stakeholders to formalize requirements and coordinate User Acceptance testing."
+      ]
+    },
+    {
+      "name": "Geographic Solutions",
       "position": "Senior Software Engineer",
       "startDate": "2006-01",
       "endDate": "2006-06",
@@ -161,7 +178,7 @@
       ]
     },
     {
-      "company": "PowerChord",
+      "name": "PowerChord",
       "position": "Full Stack Developer",
       "startDate": "2003-11",
       "endDate": "2005-12",
@@ -171,7 +188,7 @@
       ]
     },
     {
-      "company": "Sterling Star",
+      "name": "Sterling Star",
       "position": "WinForms Developer",
       "startDate": "2003-02",
       "endDate": "2003-11",
