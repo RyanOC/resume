@@ -159,12 +159,7 @@
       "endDate": "2009-09",
       "summary": "Architected and developed a comprehensive CRM solution, enhancing business operations through advanced integration and development practices.",
       "highlights": [
-        "Developed a custom CRM and reporting web application that is used exclusively by RDK’s call center which handles heavy call volume dealing with commercial vehicle sales for international clients using ASP.NET, C#, JavaScript and SQL Server.",
-        "Developed a dashboard to report call center data statics for management analysis using windows services and Dundas Charts.",
-        "Developed a desktop application for CRM integration using ActiveX to assist sales team with incoming calls.",
-        "Developed a windows service to email configurable PDF financial and productivity reports to management and the CEO.",
-        "Responsible for all business process analysis, prototyping from requirements, conceptual designs, development and testing.",
-        "Managed relationships with 20 business stakeholders to formalize requirements and coordinate User Acceptance testing."
+        "Developed a custom CRM and reporting web application that is used exclusively by RDK’s call center which handles heavy call volume dealing with commercial vehicle sales for international clients using ASP.NET, C#, JavaScript and SQL Server."
       ]
     },
     {
