@@ -1,6 +1,6 @@
 # My Resume
 
-This repository contains my professional resume in multiple formats, including HTML (hosted via GitHub Pages), DOCX, and PDF.
+This repository contains my professional resume in multiple formats, including HTML (hosted via GitHub Pages), and DOCX.
 
 ## 📄 View Online (GitHub Pages)
 You can view the online version of my resume here:  

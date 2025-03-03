@@ -1,9 +1,9 @@
 {
   "basics": {
     "name": "Ryan Connolly",
-    "label": "Senior Principal Software Engineer",
+    "label": "Technical Lead | Senior Principal Software Engineer",
     "email": "ryanoc333@gmail.com",
-    "summary": "Senior Principal Software Engineer with extensive experience in ASP.NET Core, Angular, and cloud-based architectures, specializing in building scalable backend services, frontend applications, and system integrations. Strong background in hands-on development, system design, and mentoring fellow engineers.",
+    "summary": "Technical Lead & Senior Principal Software Engineer with extensive experience in ASP.NET Core, Angular, and cloud-based architectures. Skilled in building scalable backend services, frontend applications, and system integrations while leading architecture and mentoring cross-functional teams. Strong background in hands-on development, system design, and collaborating with stakeholders to drive technical solutions.",
     "location": {
       "city": "Brandon",
       "region": "FL",
@@ -24,25 +24,27 @@
       "url": "https://www.dell.com",
       "startDate": "2021-08",
       "endDate": "2025-02",
-      "summary": "Senior leadership role initially focusing on team management and strategic direction, then transitioning to hands-on technical development in identity management and global supply chain systems.",
+      "summary": "Led key engineering initiatives, balancing hands-on development with leadership. Partnered with stakeholders to align technical solutions with business needs, guiding engineers in best practices and system architecture.",
       "highlights": [
-        "Led a software engineering team for one year, focusing on project management, mentorship, and strategic direction.",
-        "Contributed to front-end development using Angular 18, enhancing user interface components for better user experience and system integration.",
-        "Implemented Kafka for inter-service communication, designing systems to produce and consume JSON payloads efficiently across enterprise services.",
-        "Developed and maintained a growing list of over 100 end-to-end automated tests using Selenium and Moon's browser automation, crucial for gating all production deployments.",
-        "Implemented Polly for advanced HTTP client management with retry policies and circuit breaking, centralizing resilience mechanisms across service calls.",
-        "Designed stubbing middleware to control test data flow during automated testing, improving reliability and consistency in testing environments.",
-        "Managed continuous deployment through GitLab for five key applications/services, enhancing deployment processes and reducing time-to-market.",
-        "Employed Agile/Scrum methodologies including daily standups, iteration planning meetings, and retrospectives to maintain high team performance and adaptability.",
-        "Tracked all project work and milestones using Jira, ensuring transparency and accountability throughout the development lifecycle.",
-        "Practiced extensive paired programming via Microsoft Teams, fostering team collaboration and knowledge sharing.",
-        "Initiated the implementation of Pactflow consumer driven contract testing to enhance integration testing strategies, aiming to improve the reliability of service agreements between microservices.",
-        "Integrated Copilot and Codium into development environments (JetBrains Rider, Visual Studio .NET, and VS Code) to enhance coding efficiency and productivity.",
-        "Advocated for and practiced Test Driven Development (TDD) to minimize code coupling and maximize testability, leading to more robust and maintainable code.",
-        "Utilized FluentValidation to ensure the integrity of outgoing JSON payloads before dispatching to Kafka, ensuring data accuracy and consistency for downstream systems.",
-        "Continuously created Markdown documentation, including Mermaid sequence diagrams, to enhance project transparency and facilitate effective knowledge transfer across teams.",
-        "Monitored KPIs and tracked errors using Splunk, enhancing performance analysis and system reliability.",
-        "Ensured code quality and security compliance using SonarQube and Checkmarx, maintaining high standards for testing coverage, code quality, and vulnerability scanning."
+        "Provided technical leadership and mentorship, guiding engineers in best practices, architecture, and problem-solving.",
+        "Worked with product managers, business leaders, and application consumers to define technical requirements and drive development priorities.",
+        "Led architectural decisions and strategic planning for identity management and global supply chain systems.",
+        "Facilitated cross-team collaboration, ensuring alignment between technical solutions and business goals.",
+        "Practiced paired programming, fostering team collaboration and knowledge sharing.",
+        "Designed Kafka-based inter-service communication, enabling scalable, efficient data streaming.",
+        "Developed and maintained 100+ automated Selenium/Moon tests, improving system reliability.",
+        "Implemented Polly for HTTP resilience, centralizing retry policies and circuit breaking.",
+        "Integrated Pactflow contract testing, enhancing microservice reliability.",
+        "Developed API response stubbing middleware, replacing real API responses with static JSON for consistent test data.",
+        "Contributed to Angular 18 front-end component development.",
+        "Ensured data integrity using FluentValidation before dispatching JSON payloads to Kafka.",
+        "Managed GitLab CI/CD pipelines for five applications, optimizing deployments.",
+        "Practiced Agile/Scrum, including standups, sprint planning, and retrospectives.",
+        "Tracked project milestones using Jira, ensuring transparency and accountability.",
+        "Advocated Test Driven Development (TDD) to improve code quality and maintainability.",
+        "Created Markdown documentation & Mermaid diagrams for knowledge sharing.",
+        "Monitored KPIs & errors via Splunk, optimizing system performance.",
+        "Ensured code quality & security compliance using SonarQube & Checkmarx."
       ]
     },
     {
@@ -51,13 +53,13 @@
       "url": "https://techvtal.com",
       "startDate": "2020-09",
       "endDate": "2021-08",
-      "summary": "Led the development of critical software applications for the New York Workers' Compensation Board, focusing on modernizing their systems through the use of cutting-edge technologies and practices.",
+      "summary": "Developed new applications for the New York Workers' Compensation Board, focusing on modernization and cloud-based architectures.",
       "highlights": [
-        "Led development of new applications in C#, ASP.NET Core, Angular, and Azure as part of modernization efforts for the New York Workers' Compensation Board.",
-        "Specialized in developing Microservices using MediatR with Azure Service Bus.",
-        "Oversaw continuous threat modeling, evaluation, and security enhancements alongside integration with state client systems.",
-        "Authored unit and integration tests to support CI/CD pipelines, ensuring high code quality and reliability.",
-        "Mentored team members in best practices, participated in daily code reviews, agile ceremonies, and defect triaging."
+        "Developed applications in C#, ASP.NET Core, Angular, and Azure.",
+        "Built microservices using MediatR with Azure Service Bus.",
+        "Led security enhancements and integration with state client systems.",
+        "Authored unit and integration tests to support CI/CD pipelines.",
+        "Participated in code reviews, agile ceremonies, and defect triaging."
       ]
     },
     {
@@ -66,13 +68,11 @@
       "url": "https://www.nextech.com",
       "startDate": "2020-05",
       "endDate": "2020-09",
-      "summary": "Supported and enhanced complex healthcare software solutions, utilizing a broad range of technologies and development practices.",
+      "summary": "Enhanced healthcare applications across a broad tech stack.",
       "highlights": [
         "Supported and enhanced applications in C++, C#, ASP.Net, AngularJS, Angular 7, and SQL Server.",
-        "Troubleshot application integrations across Azure Cloud and on-premises installations.",
-        "Created E2E tests for Azure build pipelines using Selenium; unit tests in Angular using Jasmine and Karma.",
-        "Authored detailed implementation and configuration documentation.",
-        "Engaged in daily code reviews, QA testing, agile ceremonies, and defect triaging."
+        "Troubleshot application integrations across Azure Cloud and on-prem installations.",
+        "Created E2E tests for Azure build pipelines using Selenium; unit tests in Angular with Jasmine and Karma."
       ]
     },
     {
@@ -81,13 +81,11 @@
       "url": "https://www.rdk.com",
       "startDate": "2018-07",
       "endDate": "2020-05",
-      "summary": "Architected and developed a comprehensive CRM solution, enhancing business operations through advanced integration and development practices.",
+      "summary": "Led development of a custom CRM, handling system architecture and integrations.",
       "highlights": [
-        "Architected and developed a CRM using .Net Core Web Api, Angular 7, Azure SQL, and Azure Devops.",
-        "Integrated the CRM with Procede Software’s Excede API for seamless data synchronization.",
-        "Implemented Auth0 for JWT Authentication and Authorization.",
-        "Developed a Windows Service for 3rd party SQL actions and managed CI/CD workflows using Git Flow.",
-        "Mentored junior developers, both locally and remotely."
+        "Architected and developed a CRM using .NET Core Web API, Angular 7, Azure SQL, and Azure DevOps.",
+        "Integrated CRM with Procede Software’s Excede API for seamless data synchronization.",
+        "Developed a Windows Service for third-party SQL actions and managed CI/CD workflows using Git Flow."
       ]
     },
     {
@@ -96,12 +94,11 @@
       "url": "https://www.ashleyfurniture.com",
       "startDate": "2017-01",
       "endDate": "2018-07",
-      "summary": "Led the development of key security and user management systems within a major internal financial application, significantly enhancing operational security and efficiency.",
+      "summary": "Developed security and user management systems for financial applications.",
       "highlights": [
-        "Led the development of a security model using OAuth and JWT within an internal financial application.",
-        "Designed Angular components for managing user roles and purchase order processing.",
-        "Enhanced support for the Ashley Payment Gateway system for credit card processing.",
-        "Created CI/CD pipelines in Azure, maintaining high code coverage and adhering to SOLID principles."
+        "Implemented OAuth and JWT security models.",
+        "Developed Angular components for user roles and order processing.",
+        "Built Azure CI/CD pipelines and enforced SOLID principles."
       ]
     },
     {
@@ -110,34 +107,32 @@
       "url": "https://www.mercurynewmedia.com",
       "startDate": "2016-09",
       "endDate": "2016-12",
-      "summary": "Contributed to the development of web solutions, specializing in custom widget creation and integration for Telerik Sitefinity MVC sites.",
+      "summary": "Developed custom Sitefinity MVC widgets and client integrations.",
       "highlights": [
-        "Collaborated on Telerik Sitefinity MVC sites, developing custom widgets and integrations.",
-        "Created Sitefinity widgets for client lead promotion and Wordpress data import."
+        "Created Sitefinity widgets for lead promotion and WordPress data import."
       ]
     },
     {
-      "name": "three five two",
+      "name": "352",
       "position": "Senior Software Engineer",
-      "url": "https://www.threefivetwo.com",
+      "url": "https://www.352inc.com",
       "startDate": "2016-04",
       "endDate": "2016-08",
-      "summary": "Played a key role in the development of innovative web applications, utilizing a modern technology stack to create scalable and efficient solutions.",
+      "summary": "Developed client applications and backend services.",
       "highlights": [
-        "Developed GiveChing.com, integrating affiliate networks with NodeJS, ExpressJS, MongoDB, and React.",
-        "Implemented JWT authentication and AWS Lambda functions for custom Slack App integration."
+        "Developed applications integrating affiliate networks using NodeJS, ExpressJS, MongoDB, and React."
       ]
     },
     {
-      "name": "American Association for Physician Leadership (AAPL)",
+      "name": "AAPL",
       "position": "Senior Software Engineer",
       "url": "https://www.physicianleaders.org",
       "startDate": "2014-02",
       "endDate": "2016-04",
-      "summary": "Led initiatives to overhaul corporate web infrastructure, integrating advanced technologies to streamline operations and improve accessibility.",
+      "summary": "Led initiatives to rebuild corporate web infrastructure.",
       "highlights": [
-        "Rebuilt corporate website using Sitefinity CMS, integrated with Microsoft CRM and SQL Server.",
-        "Developed APIs, web and mobile applications, and a POS solution enhancing operational efficiency."
+        "Rebuilt corporate website using Sitefinity CMS, integrating with Microsoft CRM and SQL Server.",
+        "Developed APIs, web/mobile applications, and POS solutions to enhance operational efficiency."
       ]
     },
     {
@@ -201,17 +196,5 @@
       "startDate": "2001-01",
       "endDate": "2002-07"
     }
-  ],
-    "projects": [
-      {
-        "name": "Arduino and ESP32 Development",
-        "description": "Ongoing development of various projects utilizing Arduino and ESP32 microcontrollers to automate and enhance home and personal environments.",
-        "highlights": [
-          "Engineered a home automation system utilizing Home Assistant running on a Synology NAS. Integrated various sensors that communicate via MQTT, providing real-time data visualization on a Home Assistant dashboard.",
-          "Developed a temperature monitoring system for BBQ applications using an ESP32. Implemented wireless communication for remote monitoring through Home Assistant’s Zigbee integration and a web interface using web sockets. CAD Designed and 3D printed custom enclosures for the system.",
-          "Continuously develop microcontroller-based projects to enhance automation and data collection capabilities for practical applications."
-        ],
-        "url": "https://github.com/ryanoc"
-      }
-    ]  
+  ]
 }
